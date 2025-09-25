@@ -91,7 +91,7 @@
     <h2>Contact Us</h2>
     <p>Email: <a href="mailto:info@kutendakwevatendi.org">info@kutendakwevatendi.org</a></p>
     <p>Phone: +263 77 123 4567</p>
-    <p>Address: 123 Faith Street, Harare, Zimbabwe</p>
+    <p>Address: Chikanga, Mutare, Zimbabwe</p>
     <p>WhatsApp: <a href="https://wa.me/263783543541" target="_blank">Chat with us on WhatsApp</a></p>
   </section>  <section id="social">
     <h2>Follow Us on Social Media</h2>
