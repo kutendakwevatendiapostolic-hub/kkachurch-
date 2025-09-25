@@ -89,7 +89,7 @@
     <h4>GUEST SPEAKER</h4> ;<P>Mbuya Mutumwa Mariko</p>
   </section>  <section id="contact">
   
-      src=<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d1586.3715646600588!2d32.627324861541695!3d-18.97345636428207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d-18.9735758!2d32.6273903!4m3!3m2!1d-18.9735673!2d32.6273858!5e0!3m2!1sen!2szw!4v1758805660975!5m2!1sen!2szw" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe> src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d1586.3715646600588!2d32.627324861541695!3d-18.97345636428207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d-18.9735758!2d32.6273903!4m3!3m2!1d-18.9735673!2d32.6273858!5e0!3m2!1sen!2szw!4v1758805660975!5m2!1sen!2szw" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
     </iframe>
   
     <p>Email: <a href="mailto:info@kutendakwevatendi.org">info@kutendakwevatendi.org</a></p>
