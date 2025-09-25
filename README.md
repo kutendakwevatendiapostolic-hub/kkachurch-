@@ -87,8 +87,8 @@
     <p>Address: Hillsview Chikanga Tm, Mutare, Zimbabwe</p>
     <h4>GUEST SPEAKER</h4> ;<P>Mbuya Mutumwa Mariko</p>
   <h4>FOR MORE INFO CONTACT</h4>
-  <p>Mai Organiser: 0773767172</p>
-   <P>Mai GS : 0714079185</P>
+  <p>Mai Organiser Matikiti: 0773767172</p>
+   <P>Mai GS  Manyara : 0714079185</P>
   
   
       <iframe
