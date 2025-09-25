@@ -81,8 +81,7 @@
       <img src="./images/SERVICE.jpg" alt="Youth Group">
         <img src="./images/nabil.jpg" alt="Youth Group">
     </div>
-  </section>  <section id="videos">
-    <h2>Upcoming Events</h2>
+  </section>  <h2>Upcoming Events</h2>
      <h3>Women Conference 2025 Edition</h3>
     <p>From 25 to 28 October 2025</p>
     <p>Address: Hillsview Chikanga Tm, Mutare, Zimbabwe</p>
@@ -95,9 +94,11 @@
       allowfullscreen=""
       loading="lazy"
       referrerpolicy="no-referrer-when-doing-downgrade"
-    </iframe>
+    </iframe> <section id="videos">
+   
   
   </section>  <section id="contact">
+  <h2>CONTACT US ON</h2>
   
     
     <p>Email: <a href="mailto:info@kutendakwevatendi.org">info@kutendakwevatendi.org</a></p>
