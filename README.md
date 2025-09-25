@@ -82,11 +82,11 @@
         <img src="./images/nabil.jpg" alt="Youth Group">
     </div>
   </section>  <section id="videos">
-    <h2>Videos</h2>
-    <div class="video-container">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id1" frameborder="0" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id2" frameborder="0" allowfullscreen></iframe>
-    </div>
+    <h2>upcoming Events</h2>
+     <h3>Women Conference 2025 Edition</h3>
+    <p>From 25 to 28 October 2025</p>
+    <p>Address: Hillsview Chikanga Tm, Mutare, Zimbabwe</p>
+    <p>GUEST SPEAKER ;Mbuya Mutumwa Mariko</p>
   </section>  <section id="contact">
     <h2>Contact Us</h2>
     <p>Email: <a href="mailto:info@kutendakwevatendi.org">info@kutendakwevatendi.org</a></p>
