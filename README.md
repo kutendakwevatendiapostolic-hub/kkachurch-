@@ -88,6 +88,9 @@
     <p>Address: Hillsview Chikanga Tm, Mutare, Zimbabwe</p>
     <h4>GUEST SPEAKER</h4> ;<P>Mbuya Mutumwa Mariko</p>
   </section>  <section id="contact">
+    <iframe>
+      https://maps.app.goo.gl/PMCSJa1uojjpn1ag9
+    </iframe>
     <h2>Contact Us</h2>
     <p>Email: <a href="mailto:info@kutendakwevatendi.org">info@kutendakwevatendi.org</a></p>
     <p>Phone: +263 77 123 4567</p>
