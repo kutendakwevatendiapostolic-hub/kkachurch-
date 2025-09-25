@@ -99,12 +99,12 @@
   
   </section>  <section id="contact">
   <h2>CONTACT US ON</h2>
-  <div  <p>Email: <a href="mailto:info@kutendakwevatendi.org">info@kutendakwevatendi.org</a></p>
+  <p>Email: <a href="mailto:info@kutendakwevatendi.org">info@kutendakwevatendi.org</a></p>
     <p>Phone: +263 77 123 4567</p>
     <p>Address: Chikanga, Mutare, Zimbabwe</p>
-    <p>WhatsApp: <a href="https://wa.me/263783543541" target="_blank">Chat with us on WhatsApp</a></p>>
+    <p>WhatsApp: <a href="https://wa.me/263783543541" target="_blank">Chat with us on WhatsApp</a></p>
     
-  </div>
+
   
   </section>  <section id="social">
     <h2>Follow Us on Social Media</h2>
