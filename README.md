@@ -82,13 +82,13 @@
         <img src="./images/nabil.jpg" alt="Youth Group">
     </div>
   </section>  <h2>Upcoming Events</h2>
-     <h3>Women Conference 2025 Edition</h3>
-    <p>From 25 to 28 October 2025</p>
-    <p>Address: Hillsview Chikanga Tm, Mutare, Zimbabwe</p>
-    <h4>GUEST SPEAKER</h4> ;<P>Mbuya Mutumwa Mariko</p>
+     <h3>Musangano WeMatumba</h3>
+    <p>From 11 to 13 October 2025</p>
+    <p>Address: Chirarwe (DC), Mutasa, Zimbabwe</p>
+    <h4>GUEST </h4> ;<P> Mutumwa Mariko</p>
   <h4>FOR MORE INFO CONTACT</h4>
-  <p>Mai Organiser Matikiti: 0773767172</p>
-   <P>Mai GS  Manyara : 0714079185</P>
+  <p>CHURCH Organiser Matikiti:  0772651138</p>
+
   
   
       <iframe
@@ -104,8 +104,8 @@
   
   </section>  <section id="contact">
   <h2>CONTACT US ON</h2>
-  <p>Email: <a href="mailto:info@kutendakwevatendi.org">info@kutendakwevatendi.org</a></p>
-    <p>Phone: +263 77 123 4567</p>
+  <p>Email: kutendakwevatendiapostolic@gmail.com</p>
+    <p>Phone: 0772651138/0783543541</p>
     <p>Address: Chikanga, Mutare, Zimbabwe</p>
     <p>WhatsApp: <a href="https://wa.me/263783543541" target="_blank">Chat with us on WhatsApp</a></p>
     
@@ -114,14 +114,12 @@
   </section>  <section id="social">
     <h2>Follow Us on Social Media</h2>
     <ul>
-      <li><a href="https://www.facebook.com/kutendakwevatendi" target="_blank">Facebook</a></li>
-      <li><a href="https://www.instagram.com/kutendakwevatendi" target="_blank">Instagram</a></li>
-      <li><a href="https://twitter.com/kutendakwevatendi" target="_blank">Twitter</a></li>
-      <li><a href="https://www.youtube.com/@kutendakwevatendi" target="_blank">YouTube</a></li>
+      <li>Kutenda Kwevatendi Apostolic Church</li>
+      
+      <li>Kutenda Kwevatendi Apostolic Church</li>
     </ul>
   </section>  <footer>
     <p>&copy; 2025 Kutenda Kwevatendi Apostolic Church. All rights reserved.</p>
   </footer>
 </body>
-</html>
 
