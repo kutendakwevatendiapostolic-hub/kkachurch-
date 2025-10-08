@@ -114,9 +114,9 @@
   </section>  <section id="social">
     <h2>Follow Us on Social Media</h2>
     <ul>
-      <li>Kutenda Kwevatendi Apostolic Church</li>
+      <li>Facebook:Kutenda Kwevatendi Apostolic Church</li>
       
-      <li>Kutenda Kwevatendi Apostolic Church</li>
+      <li>Youtube:Kutenda Kwevatendi Apostolic Church</li>
     </ul>
   </section>  <footer>
     <p>&copy; 2025 Kutenda Kwevatendi Apostolic Church. All rights reserved.</p>
